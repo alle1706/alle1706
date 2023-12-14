@@ -1,16 +1,27 @@
 ### Hi there 👋
 
+
+I'm Alle, currently studying Artificial Intelligence. Here is a quick look at my work:
+
+## Supervised machine learning 
+
+| Algorithms  | Work |
+| ------------- | ------------- |
+| Convolutional neural network (CNN)  | [Pneumonia-Image-Classifier](https://github.com/alle1706/Pneumonia-Image-Classifier)  |
+
 <!--
-**alle1706/alle1706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Unsupervised machine learning
 
-Here are some ideas to get you started:
+| Algorithms  | Work |
+| ------------- | ------------- |
+| K means clustering  | Content Cell  |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+## Data Analysis
+
+| Algorithms  | Work |
+| ------------- | ------------- |
+| Artificial Neural Networks (ANN)  | [Bank costumers churn prediction](https://github.com/alle1706/Churn-prediction)  |
+
+
