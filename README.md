@@ -23,5 +23,5 @@ I'm Alle, currently studying Artificial Intelligence. Here is a quick look at my
 | Algorithms  | Work |
 | ------------- | ------------- |
 | Artificial Neural Networks (ANN)  | [Bank costumers churn prediction](https://github.com/alle1706/Churn-prediction)  |
-
+| Linear Regression  | [Student Performance vs Stress](https://github.com/alle1706/Student-performance)  |
 
