@@ -14,7 +14,7 @@ I'm Alle, currently studying Artificial Intelligence. Here is a quick look at my
 
 | Algorithms  | Work |
 | ------------- | ------------- |
-| K means clustering | [K-means from scratch](https://github.com/alle1706/Fifa-players-K-cluster-scratch-)  |
+| K means clustering | [K-means from scratch Fifa players](https://github.com/alle1706/Fifa-players-K-cluster-scratch-)  |
 
 
 ## Data Analysis
