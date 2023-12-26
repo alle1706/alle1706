@@ -9,14 +9,13 @@ I'm Alle, currently studying Artificial Intelligence. Here is a quick look at my
 | ------------- | ------------- |
 | Convolutional neural network (CNN)  | [Pneumonia-Image-Classifier](https://github.com/alle1706/Pneumonia-Image-Classifier)  |
 
-<!--
+
 ## Unsupervised machine learning
 
 | Algorithms  | Work |
 | ------------- | ------------- |
-| K means clustering  | Content Cell  |
+| K means clustering | [K-means from scratch](https://github.com/alle1706/Fifa-players-K-cluster-scratch-)  |
 
--->
 
 ## Data Analysis
 
