@@ -3,14 +3,15 @@
 
 I'm Alle, currently studying Artificial Intelligence. Here is a quick look at my work:
 
-## Supervised machine learning 
+## Supervised ML
 
 | Algorithms  | Work |
 | ------------- | ------------- |
 | Convolutional neural network (CNN)  | [Pneumonia-Image-Classifier](https://github.com/alle1706/Pneumonia-Image-Classifier)  |
+| RandomForest from pipeline | [Adult income prediction](https://github.com/alle1706/Pipeline---income-prediction)  |
 
 
-## Unsupervised machine learning
+## Unsupervised ML
 
 | Algorithms  | Work |
 | ------------- | ------------- |
