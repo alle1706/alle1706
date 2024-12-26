@@ -3,6 +3,16 @@
 
 I'm Alle, currently studying Artificial Intelligence. Here is a quick look at my work:
 
+## Personal projects in Swift 
+
+| Algorithms  | Work |
+| ------------- | ------------- |
+| A verb conjugation quiz app for the italian language | [Italian Verbs](https://github.com/alle1706/ItalianVerbsConjugationQuiz3o)  |
+| A vocabulary keeper | [Espresso]()  |
+
+
+https://github.com/alle1706/ItalianVerbsConjugationQuiz3o
+
 ## Supervised ML
 
 | Algorithms  | Work |
